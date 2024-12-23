@@ -1,5 +1,21 @@
 # @rollup/plugin-node-resolve ChangeLog
 
+## v16.0.0
+
+_2024-12-15_
+
+### Breaking Changes
+
+- feat!: set development or production condition (#1823)
+
+## v15.3.1
+
+_2024-12-15_
+
+### Updates
+
+- refactor: replace `test` with `includes` (#1787)
+
 ## v15.3.0
 
 _2024-09-23_
